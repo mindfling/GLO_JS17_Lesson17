@@ -23,7 +23,5 @@ https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task3
 
 
 
-
-https://placekitten.com/408/287
-![cat picture](https://placekitten.com/408/287)
+![cat picture](https://placekitten.com/350/550?image=35)
 
