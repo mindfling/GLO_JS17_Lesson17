@@ -12,13 +12,19 @@ git push -u origin main
 
 ## https://github.com/mindfling/GLO_JS17_Lesson17.git
 
-### Lesson15 task1 calculator
+#### Lesson15 task1 calculator
 
-https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task1
+- https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task1
+- https://codepen.io/dimfreelancerdn/pen/NWbBeoE
 
-https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task2
+#### Lesson15 task2 summ of numbers of pow of x and y
 
-https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task3
+- https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task2
+- https://codepen.io/dimfreelancerdn/pen/BaQPMYe
+
+
+
+- https://github.com/mindfling/GLO_JS17_Lesson17/tree/main/Lesson17_task3
 
 
 
