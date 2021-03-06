@@ -1,0 +1,19 @@
+* {
+  background-color: #1a1a1a;
+  color: lightgrey;
+
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+body {
+  margin: 25px 10px;
+}
+
+#city {
+  display: none;
+}
+
+.result {
+  margin: 15px 0;
+}
